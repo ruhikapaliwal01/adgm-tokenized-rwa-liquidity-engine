@@ -36,8 +36,11 @@ The project relies on an optimized Star Schema data model:
 - **Visualizations:** Funnel chart (Liquidity Depth), Scatter plot (Yield vs KYC), Custom Azure Map, Donut charts.
   ---
 
+---
+
 ## Disclaimer
 This repository and its accompanying Power BI dashboard (`ADGM_Tokenized_RWA_Project.pbix`) are strictly built for **academic, educational, and portfolio demonstration purposes**. 
 
-- All property names, SPV registry numbers, token quantities, transaction logs, investor names, and yield values contained within the dataset files are **entirely fictional / synthetic**.
+- **Data Origin:** All raw CSV datasets (`Dim_Investor`, `Dim_SPV_Asset`, `Fact_Secondary_Trades`, `Fact_Yield_Distributions`) were **synthetically AI-generated / simulated** to model real-world institutional tokenization workflows without disclosing sensitive data.
+- All property names, SPV registry numbers, token quantities, transaction logs, investor names, and yield values contained within the dataset files are **entirely fictional**.
 - This project is **not** affiliated with, endorsed by, or representing the Abu Dhabi Global Market (ADGM), Financial Services Regulatory Authority (FSRA), or any of their registered entities.
