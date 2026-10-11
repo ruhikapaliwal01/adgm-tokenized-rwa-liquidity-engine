@@ -2,6 +2,10 @@
 
 An institutional-grade **Power BI Crypto-Liquidity Terminal** designed for tracking tokenized Real World Assets (RWA) within the **Abu Dhabi Global Market (ADGM)** regulatory framework.
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
+![ADGM Compliance](https://img.shields.io/badge/ADGM_FSRA-Aligned-003366?style=for-the-badge)
+![Data Model](https://img.shields.io/badge/Star_Schema-DAX-blue?style=for-the-badge)
+
 ---
 
 ## Executive Summary & Dashboard Preview
