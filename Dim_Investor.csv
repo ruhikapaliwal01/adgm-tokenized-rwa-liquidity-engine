@@ -1,0 +1,51 @@
+Investor_ID,Investor_Name,FSRA_Category,KYC_Status,Wallet_Address,Jurisdiction,Max_Allowed_Ticket_USD
+INV-1001,Investor_1001,Retail,Pending,0xbadcc32a...b09b,Saudi Arabia,50000
+INV-1002,Investor_1002,Professional,Verified,0xabf3ad39...a65e,United Kingdom,1000000
+INV-1003,Investor_1003,Retail,Verified,0x1efa2197...3f76,Saudi Arabia,50000
+INV-1004,Investor_1004,Retail,Verified,0x8dcdcd03...3ae8,Switzerland,50000
+INV-1005,Investor_1005,Professional,Verified,0xa18ff6b6...0f12,Saudi Arabia,1000000
+INV-1006,Investor_1006,Retail,Expired,0x5496f63c...1223,Switzerland,50000
+INV-1007,Investor_1007,Professional,Verified,0x36d8393a...8a0b,Saudi Arabia,1000000
+INV-1008,Investor_1008,Retail,Verified,0x93829b43...7900,Saudi Arabia,50000
+INV-1009,Investor_1009,Retail,Verified,0x30beb45f...1825,United Arab Emirates,50000
+INV-1010,Investor_1010,Retail,Verified,0x693dffbc...778e,United Arab Emirates,50000
+INV-1011,Investor_1011,Professional,Verified,0x1931e9ee...0f84,Singapore,1000000
+INV-1012,Investor_1012,Retail,Verified,0x1bf90e27...3fa7,Saudi Arabia,50000
+INV-1013,Investor_1013,Retail,Verified,0x6c006f61...2ef9,United Kingdom,50000
+INV-1014,Investor_1014,Retail,Verified,0x134c6c92...7171,Switzerland,50000
+INV-1015,Investor_1015,Retail,Verified,0x8a63f881...d605,United Arab Emirates,50000
+INV-1016,Investor_1016,Professional,Verified,0xd9441fa5...3c83,Saudi Arabia,1000000
+INV-1017,Investor_1017,Retail,Pending,0xdd59ba71...66aa,United Arab Emirates,50000
+INV-1018,Investor_1018,Institutional,Verified,0x63f2ae24...43e4,Singapore,10000000
+INV-1019,Investor_1019,Retail,Verified,0xbb026576...fed4,Switzerland,50000
+INV-1020,Investor_1020,Professional,Verified,0x309d258c...4bf5,Saudi Arabia,1000000
+INV-1021,Investor_1021,Retail,Verified,0x8acd4e10...0f9a,United Kingdom,50000
+INV-1022,Investor_1022,Retail,Pending,0x80bacd64...eb5c,Switzerland,50000
+INV-1023,Investor_1023,Retail,Verified,0x14822f53...d9f1,Saudi Arabia,50000
+INV-1024,Investor_1024,Retail,Verified,0xdca02eec...3c36,Singapore,50000
+INV-1025,Investor_1025,Retail,Verified,0x3f07f814...9434,Switzerland,50000
+INV-1026,Investor_1026,Institutional,Verified,0xa8499b92...956b,Switzerland,10000000
+INV-1027,Investor_1027,Institutional,Pending,0x344a54b8...ab73,United Kingdom,10000000
+INV-1028,Investor_1028,Retail,Pending,0xabf3e3fc...a53f,United Kingdom,50000
+INV-1029,Investor_1029,Retail,Verified,0xef8c485b...1292,United Arab Emirates,50000
+INV-1030,Investor_1030,Retail,Verified,0xff002d4d...1998,United Arab Emirates,50000
+INV-1031,Investor_1031,Retail,Verified,0x21e8ac68...eeea,United Kingdom,50000
+INV-1032,Investor_1032,Professional,Verified,0x5e9953d2...48f4,Saudi Arabia,1000000
+INV-1033,Investor_1033,Retail,Verified,0x4d71c366...9c96,Switzerland,50000
+INV-1034,Investor_1034,Retail,Verified,0x4ca415ea...ee87,United Arab Emirates,50000
+INV-1035,Investor_1035,Retail,Expired,0x1d8cbbac...e3c4,United Arab Emirates,50000
+INV-1036,Investor_1036,Professional,Verified,0x48212ddb...9ad6,Saudi Arabia,1000000
+INV-1037,Investor_1037,Retail,Verified,0xa25d6b29...da58,United Kingdom,50000
+INV-1038,Investor_1038,Professional,Verified,0xe87d1c78...d89a,United Arab Emirates,1000000
+INV-1039,Investor_1039,Professional,Verified,0x46d483f3...0b49,United Arab Emirates,1000000
+INV-1040,Investor_1040,Retail,Verified,0xfad409e2...430f,Saudi Arabia,50000
+INV-1041,Investor_1041,Professional,Verified,0x6d7ce3c9...8f97,United Arab Emirates,1000000
+INV-1042,Investor_1042,Retail,Verified,0xb0e6a969...e767,Saudi Arabia,50000
+INV-1043,Investor_1043,Retail,Verified,0x951f58d0...8d72,Saudi Arabia,50000
+INV-1044,Investor_1044,Professional,Verified,0x5d59cd2a...e623,United Arab Emirates,1000000
+INV-1045,Investor_1045,Professional,Verified,0x3fe12e47...aabc,United Arab Emirates,1000000
+INV-1046,Investor_1046,Retail,Verified,0xdfed2c43...6808,Switzerland,50000
+INV-1047,Investor_1047,Professional,Verified,0x3c9ad14c...dd56,Saudi Arabia,1000000
+INV-1048,Investor_1048,Professional,Verified,0xe1a47e10...698c,United Arab Emirates,1000000
+INV-1049,Investor_1049,Retail,Verified,0xc84a7b28...ee49,Singapore,50000
+INV-1050,Investor_1050,Retail,Verified,0xcf8d446a...3f87,United Kingdom,50000
